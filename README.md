@@ -1,6 +1,6 @@
 # Bee Family — Check Settimanale Campagne
 
-Report settimanali automatici sulle campagne Meta + Google Ads dei 22 clienti Bee Family gestiti da Francesco Maria Mosca (FMM Consulting).
+Report settimanali automatici sulle campagne Meta + Google Ads dei 22 clienti Bee Family gestiti da Francesco Maria Mosca.
 
 **Generazione**: scheduled task `check-settimanale-beefamily` ogni giovedì 15:00.
 **Pubblicazione**: GitHub Pages → https://advfmosca.github.io/beefamily-check-weekly/
