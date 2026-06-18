@@ -1,0 +1,15 @@
+{
+  "period_current": "Gio 11 Giu - Gio 18 Giu 2026",
+  "period_prev": "Gio 4 Giu - Gio 11 Giu 2026",
+  "slug": "gio-11-18-giu-2026",
+  "date_from": "2026-06-11",
+  "date_to": "2026-06-18",
+  "n_active_meta": 17,
+  "n_active_goog": 15,
+  "totals": {
+    "meta_spend": 12277.92,
+    "meta_leads": 9029.0,
+    "goog_spend": 6111.085300000001,
+    "goog_leads": 2421.2867
+  }
+}
